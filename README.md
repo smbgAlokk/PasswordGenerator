@@ -24,8 +24,8 @@ Installation
 
 ## @Clone the repository:
 
-git clone https://github.com/your-username/password-generator.git
-cd password-generator
+git clone https://github.com/smbgAlokk/PasswordGenerator.git
+cd PasswordGenerator
 ## Install dependencies:
 
 npm install
@@ -36,7 +36,7 @@ npm run dev
 
 ## Open the app in your browser:
 
-http://localhost:3000
+http://localhost:5173
 
 ## Usage
 
