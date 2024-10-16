@@ -25,7 +25,8 @@ Installation
 ## @Clone the repository:
 
 git clone https://github.com/smbgAlokk/PasswordGenerator.git
-cd PasswordGenerator
+
+## cd PasswordGenerator
 ## Install dependencies:
 
 npm install
@@ -56,6 +57,14 @@ Vite: A fast build tool for modern web projects.
 
 src/
 
-├── App.jsx          # Main component with password generation logic
-├── index.css        # Styling for the app
-└── main.jsx         # Entry point for the React app
+├── App.jsx         
+
+# Main component with password generation logic
+
+├── index.css        
+
+# Styling for the app
+
+└── main.jsx         
+
+# Entry point for the React app
