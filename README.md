@@ -1,8 +1,8 @@
-Password Generator
+## Password Generator
 
 This project is a customizable password generator built using ReactJS with Vite. It allows users to create strong and secure passwords with a variety of options for length and character types.
 
-Features
+## Features
 
 Dynamic Password Length:
 
@@ -17,28 +17,28 @@ Include Special Characters: Option to include special characters like !@#$%^&*()
 
 A "copy" button allows users to easily copy the generated password to their clipboard for convenient use.
 
-Real-time Password Update:
+## Real-time Password Update:
 
 The password is updated in real-time whenever the length or character options are changed.
 Installation
 
-@Clone the repository:
+## @Clone the repository:
 
 git clone https://github.com/your-username/password-generator.git
 cd password-generator
-Install dependencies:
+## Install dependencies:
 
 npm install
 
-Start the development server:
+## Start the development server:
 
 npm run dev
 
-Open the app in your browser:
+## Open the app in your browser:
 
 http://localhost:3000
 
-Usage
+## Usage
 
 Adjust the length slider to set the desired password length (6 to 100 characters).
 
@@ -46,13 +46,13 @@ Select options to include numbers and special characters by checking the respect
 
 The generated password is displayed in the input box. Click the Copy button to copy the password to your clipboard.
 
-#Technologies Used
+## Technologies Used
 
 ReactJS: JavaScript library for building user interfaces.
 
 Vite: A fast build tool for modern web projects.
 
-Project Structure
+## Project Structure
 
 src/
 
